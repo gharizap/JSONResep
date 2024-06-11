@@ -1,0 +1,233 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Ayam Betutu",
+        "bumbu_halus": ["5 siung bawang putih", "7 siung bawang merah", "3 buah cabai merah", "1 sdt ketumbar", "2 cm kunyit", "2 cm jahe"],
+        "bumbu_kasar": ["1 ekor ayam", "2 lembar daun salam", "2 lembar daun jeruk", "1 batang serai", "Garam secukupnya"],
+        "langkah_langkah": [
+          "Bersihkan ayam, lumuri dengan garam dan air jeruk nipis, diamkan selama 10 menit.",
+          "Haluskan bumbu halus, kemudian tumis hingga harum.",
+          "Masukkan bumbu kasar dan tumis hingga layu.",
+          "Lumuri ayam dengan bumbu tumis, kemudian bungkus dengan daun pisang.",
+          "Kukus ayam selama 1 jam, kemudian panggang hingga matang."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Beberuk Terong",
+        "bumbu_halus": ["3 siung bawang putih", "5 siung bawang merah", "3 buah cabai merah"],
+        "bumbu_kasar": ["2 buah terong", "1 buah tomat", "1 sdt terasi", "Garam secukupnya", "Minyak untuk menumis"],
+        "langkah_langkah": [
+          "Potong-potong terong dan tomat.",
+          "Haluskan bumbu halus, kemudian tumis hingga harum.",
+          "Masukkan terasi, terong, dan tomat, masak hingga layu.",
+          "Tambahkan garam sesuai selera, aduk rata, dan angkat."
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Coto Makassar",
+        "bumbu_halus": ["6 siung bawang putih", "10 siung bawang merah", "1 sdt ketumbar", "1 sdt jintan", "2 cm jahe", "2 cm lengkuas"],
+        "bumbu_kasar": ["500 gram daging sapi", "100 gram kacang tanah", "3 lembar daun salam", "2 batang serai", "Air secukupnya", "Garam secukupnya"],
+        "langkah_langkah": [
+          "Rebus daging sapi hingga empuk, potong-potong dadu.",
+          "Sangrai kacang tanah, haluskan.",
+          "Haluskan bumbu halus, tumis hingga harum.",
+          "Masukkan bumbu tumis, kacang tanah, daun salam, dan serai ke dalam rebusan daging.",
+          "Masak hingga bumbu meresap dan kuah mengental, tambahkan garam sesuai selera."
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Gudeg",
+        "bumbu_halus": ["8 siung bawang putih", "10 siung bawang merah", "5 butir kemiri", "2 cm lengkuas"],
+        "bumbu_kasar": ["1 kg nangka muda", "500 ml santan", "3 lembar daun salam", "2 batang serai", "2 lembar daun jati", "Gula merah secukupnya", "Garam secukupnya"],
+        "langkah_langkah": [
+          "Potong nangka muda, rebus dengan daun jati hingga empuk.",
+          "Haluskan bumbu halus, tumis hingga harum.",
+          "Masukkan bumbu tumis, nangka muda, daun salam, serai, gula merah, dan santan ke dalam panci.",
+          "Masak dengan api kecil hingga santan meresap dan gudeg berwarna cokelat.",
+          "Tambahkan garam sesuai selera, aduk rata, dan angkat."
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Kerak Telor",
+        "bumbu_halus": ["3 siung bawang putih", "5 siung bawang merah"],
+        "bumbu_kasar": ["100 gram beras ketan", "2 butir telur bebek", "50 gram kelapa parut", "1 sdt ebi", "Garam secukupnya"],
+        "langkah_langkah": [
+          "Rendam beras ketan selama 1 jam, tiriskan.",
+          "Haluskan bumbu halus, tumis hingga harum.",
+          "Campur beras ketan, telur, kelapa parut, ebi, dan bumbu tumis, aduk rata.",
+          "Panaskan wajan kecil, tuang adonan kerak telor, masak hingga matang dan sedikit gosong di bagian bawah.",
+          "Angkat dan sajikan."
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Mie Aceh",
+        "bumbu_halus": ["4 siung bawang putih", "8 siung bawang merah", "5 buah cabai merah", "1 sdt jintan", "2 cm kunyit", "2 cm jahe"],
+        "bumbu_kasar": ["200 gram mie kuning", "100 gram daging sapi", "100 gram udang", "2 lembar daun salam", "2 batang serai", "Air secukupnya", "Garam secukupnya"],
+        "langkah_langkah": [
+          "Rebus mie kuning hingga matang, tiriskan.",
+          "Haluskan bumbu halus, tumis hingga harum.",
+          "Masukkan daging sapi, udang, daun salam, dan serai, masak hingga daging matang.",
+          "Tambahkan air dan mie kuning, aduk rata.",
+          "Tambahkan garam sesuai selera, masak hingga bumbu meresap, angkat dan sajikan."
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Nasi Kuning",
+        "bumbu_halus": ["6 siung bawang putih", "8 siung bawang merah", "2 cm kunyit"],
+        "bumbu_kasar": ["500 gram beras", "400 ml santan", "2 lembar daun salam", "2 batang serai", "Garam secukupnya"],
+        "langkah_langkah": [
+          "Cuci beras hingga bersih.",
+          "Haluskan bumbu halus, tumis hingga harum.",
+          "Masukkan bumbu tumis, daun salam, serai, dan santan ke dalam panci, masak hingga mendidih.",
+          "Masukkan beras, masak dengan api kecil hingga santan meresap.",
+          "Kukus beras hingga matang, angkat dan sajikan."
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Nasi Pecel",
+        "bumbu_halus": ["5 siung bawang putih", "7 siung bawang merah", "3 buah cabai merah", "1 sdt ketumbar"],
+        "bumbu_kasar": ["100 gram kacang tanah", "1 buah jeruk limau", "100 gram sayuran rebus", "Garam secukupnya"],
+        "langkah_langkah": [
+          "Sangrai kacang tanah, haluskan bersama bumbu halus.",
+          "Tambahkan air jeruk limau dan garam, aduk rata.",
+          "Tata sayuran rebus di atas nasi, siram dengan sambal pecel.",
+          "Sajikan dengan kerupuk."
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Papeda",
+        "bumbu_halus": [],
+        "bumbu_kasar": ["200 gram tepung sagu", "800 ml air", "1 sdt garam"],
+        "langkah_langkah": [
+          "Larutkan tepung sagu dengan 200 ml air hingga rata.",
+          "Didihkan sisa air, masukkan larutan sagu sambil terus diaduk.",
+          "Masak hingga mengental dan bening, tambahkan garam.",
+          "Sajikan papeda dengan kuah ikan kuning atau sayur santan."
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Pempek",
+        "bumbu_halus": ["5 siung bawang putih"],
+        "bumbu_kasar": ["500 gram daging ikan tenggiri", "250 gram tepung sagu", "1 butir telur", "Garam secukupnya", "Air untuk merebus"],
+        "langkah_langkah": [
+          "Haluskan daging ikan tenggiri bersama bawang putih.",
+          "Campur daging ikan, tepung sagu, telur, dan garam, uleni hingga kalis.",
+          "Bentuk adonan sesuai selera, rebus hingga mengapung, angkat dan tiriskan.",
+          "Goreng pempek hingga kecoklatan, sajikan dengan cuko."
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Peuyeum",
+        "bumbu_halus": [],
+        "bumbu_kasar": ["1 kg singkong", "Ragi tape secukupnya"],
+        "langkah_langkah": [
+          "Kupas singkong, potong-potong sesuai selera.",
+          "Rebus singkong hingga matang, angkat dan tiriskan.",
+          "Taburi singkong dengan ragi tape, aduk rata.",
+          "Simpan singkong dalam wadah tertutup selama 2-3 hari hingga berfermentasi.",
+          "Sajikan peuyeum sebagai camilan."
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Rawon",
+        "bumbu_halus": ["6 siung bawang putih", "8 siung bawang merah", "5 butir kemiri", "2 cm kunyit", "2 cm jahe", "2 cm lengkuas", "3 buah keluak"],
+        "bumbu_kasar": ["500 gram daging sapi", "3 lembar daun salam", "2 batang serai", "Garam secukupnya", "Air secukupnya"],
+        "langkah_langkah": [
+          "Rebus daging sapi hingga empuk, potong-potong dadu.",
+          "Haluskan bumbu halus, tumis hingga harum.",
+          "Masukkan bumbu tumis, daging sapi, daun salam, dan serai ke dalam rebusan daging.",
+          "Masak hingga bumbu meresap dan kuah menghitam, tambahkan garam sesuai selera.",
+          "Sajikan rawon dengan nasi dan pelengkap."
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Rendang",
+        "bumbu_halus": ["10 siung bawang putih", "15 siung bawang merah", "10 buah cabai merah", "5 butir kemiri", "2 cm kunyit", "2 cm jahe", "2 cm lengkuas"],
+        "bumbu_kasar": ["1 kg daging sapi", "1 liter santan", "3 lembar daun salam", "2 batang serai", "Garam secukupnya"],
+        "langkah_langkah": [
+          "Potong-potong daging sapi sesuai selera.",
+          "Haluskan bumbu halus, tumis hingga harum.",
+          "Masukkan bumbu tumis, daging sapi, daun salam, serai, dan santan ke dalam panci.",
+          "Masak dengan api kecil hingga santan mengental dan daging empuk.",
+          "Tambahkan garam sesuai selera, aduk rata, dan angkat."
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Sate Madura",
+        "bumbu_halus": ["6 siung bawang putih", "8 siung bawang merah", "5 buah cabai merah", "5 butir kemiri"],
+        "bumbu_kasar": ["500 gram daging ayam", "100 gram kacang tanah", "Kecap manis secukupnya", "Garam secukupnya"],
+        "langkah_langkah": [
+          "Potong-potong daging ayam sesuai selera.",
+          "Sangrai kacang tanah, haluskan bersama bumbu halus.",
+          "Campur bumbu halus dengan kecap manis dan garam, aduk rata.",
+          "Tusuk daging ayam dengan tusuk sate, lumuri dengan bumbu.",
+          "Bakar sate hingga matang, sajikan dengan bumbu kacang."
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Serabi",
+        "bumbu_halus": [],
+        "bumbu_kasar": ["200 gram tepung beras", "500 ml santan", "1 butir telur", "Garam secukupnya", "Gula merah cair untuk topping"],
+        "langkah_langkah": [
+          "Campur tepung beras, santan, telur, dan garam, aduk rata.",
+          "Panaskan cetakan serabi, tuang adonan, masak hingga berlubang-lubang.",
+          "Tambahkan gula merah cair di atasnya, masak hingga matang.",
+          "Angkat dan sajikan."
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Soto Banjar",
+        "bumbu_halus": ["6 siung bawang putih", "8 siung bawang merah", "5 butir kemiri", "2 cm jahe", "2 cm lengkuas"],
+        "bumbu_kasar": ["500 gram ayam", "3 lembar daun salam", "2 batang serai", "Garam secukupnya", "Air secukupnya"],
+        "langkah_langkah": [
+          "Rebus ayam hingga empuk, suwir-suwir dagingnya.",
+          "Haluskan bumbu halus, tumis hingga harum.",
+          "Masukkan bumbu tumis, daun salam, serai, dan air ke dalam rebusan ayam.",
+          "Masak hingga bumbu meresap, tambahkan garam sesuai selera.",
+          "Sajikan soto banjar dengan pelengkap."
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Soto Lamongan",
+        "bumbu_halus": ["8 siung bawang putih", "10 siung bawang merah", "5 butir kemiri", "2 cm kunyit", "2 cm jahe", "2 cm lengkuas"],
+        "bumbu_kasar": ["500 gram ayam", "3 lembar daun salam", "2 batang serai", "Garam secukupnya", "Air secukupnya"],
+        "langkah_langkah": [
+          "Rebus ayam hingga empuk, suwir-suwir dagingnya.",
+          "Haluskan bumbu halus, tumis hingga harum.",
+          "Masukkan bumbu tumis, daun salam, serai, dan air ke dalam rebusan ayam.",
+          "Masak hingga bumbu meresap, tambahkan garam sesuai selera.",
+          "Sajikan soto lamongan dengan pelengkap."
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Tahu Sumedang",
+        "bumbu_halus": ["4 siung bawang putih"],
+        "bumbu_kasar": ["500 gram tahu sumedang", "Minyak untuk menggoreng", "Garam secukupnya"],
+        "langkah_langkah": [
+          "Panaskan minyak dalam wajan.",
+          "Haluskan bawang putih, campur dengan garam.",
+          "Goreng tahu hingga kecoklatan dan renyah, angkat dan tiriskan.",
+          "Sajikan tahu sumedang dengan bumbu bawang putih."
+        ]
+      }
+    ]
+  }
+  
